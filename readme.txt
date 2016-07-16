@@ -3,3 +3,4 @@ Git has a mutable index called stage.
 德玛西亚！！！
 怎么样会冲突呢？
 为什么另一个项目提交后文件里自动添加了东西呢？
+## git冲突
