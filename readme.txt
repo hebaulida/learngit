@@ -6,3 +6,4 @@ Git has a mutable index called stage.
 没有冲突
 ## git冲突
 2016-11-26
+1
